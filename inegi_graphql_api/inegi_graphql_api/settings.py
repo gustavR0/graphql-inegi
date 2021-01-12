@@ -84,7 +84,7 @@ DATABASES = {
         'NAME': 'pymes_inegi',
         'USER': 'desarrollador',
         'PASSWORD': 'desarrollador',
-        'HOST': '127.0.0.1',
+        'HOST': '35.232.78.160',
         'PORT': '5432',
     }
 }
